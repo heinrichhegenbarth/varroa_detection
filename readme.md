@@ -2,7 +2,7 @@
 
 # Project for the course advanced machine learning for computer vision (2025)
 
-Test 20.11 14:59
+Test 20.11 15:10
 
 ## Background
 ### Intro
